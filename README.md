@@ -2,7 +2,7 @@ SB Foods Ordering App (MERN Stack)
 
 The SB Foods Ordering App is a user-friendly online platform built with the MERN stack (MongoDB, Express.js, React.js, Node.js), designed to simplify and enhance the food ordering experience. It allows customers to easily browse menus, customize orders, and place them from any device, anytime, eliminating the need for physical interactions.
 
-Features
+Features:
 
 Customer Convenience: Seamless online ordering with menu browsing, customizations, and easy checkout.
 
@@ -12,7 +12,7 @@ Scalability & Flexibility: Supports increased traffic, secure online payments, p
 
 Data Insights: Gathers customer preferences, sales trends, and operational metrics for data-driven business decisions.
 
-Technology Stack
+Technology Stack:
 
 MongoDB: Flexible, scalable NoSQL database for storing orders and user data.
 
